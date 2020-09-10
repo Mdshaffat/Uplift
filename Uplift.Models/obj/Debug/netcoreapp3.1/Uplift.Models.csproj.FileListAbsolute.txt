@@ -3,3 +3,7 @@ P:\Project\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.dll
 P:\Project\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csprojAssemblyReference.cache
 P:\Project\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfoInputs.cache
 P:\Project\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfo.cs
+P:\Project\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.pdb
+P:\Project\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csproj.CoreCompileInputs.cache
+P:\Project\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.dll
+P:\Project\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.pdb
