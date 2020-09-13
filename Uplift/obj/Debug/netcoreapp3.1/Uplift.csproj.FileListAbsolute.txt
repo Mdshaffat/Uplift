@@ -443,3 +443,4 @@ P:\Project\Uplift\Uplift\bin\Debug\netcoreapp3.1\Uplift.Utility.dll
 P:\Project\Uplift\Uplift\bin\Debug\netcoreapp3.1\Uplift.DataAccess.pdb
 P:\Project\Uplift\Uplift\bin\Debug\netcoreapp3.1\Uplift.Models.pdb
 P:\Project\Uplift\Uplift\bin\Debug\netcoreapp3.1\Uplift.Utility.pdb
+P:\Project\Uplift\Uplift\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
